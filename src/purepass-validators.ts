@@ -4,9 +4,9 @@ import mySpecialCharacters from './mySpecialCharacters'
 
 export const secret = (secret: string) => {
   if (!secret) {
-    // only mandatory param
+    // secret is the only mandatory param
     let e = new Erric('purepass/validators/validate.secret/(!secret)')
-    e.setMessageForHumans('secret must be provided as first param')
+    e.setMessageForHumans('secret must be provided as first parameter')
     e.setMetadata({
       input: {
         secret
