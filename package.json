@@ -2,7 +2,7 @@
   "name": "purepass-validators",
   "version": "1.1.0",
   "description": "library for validating purepass inputs",
-  "keywords": ["purepass","validators","validation"],
+  "keywords": ["purepass","validators","validation","passwords"],
   "main": "dist/purepass-validators.umd.js",
   "module": "dist/purepass-validators.es5.js",
   "typings": "dist/types/purepass-validators.d.ts",
