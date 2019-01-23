@@ -1,5 +1,5 @@
 import * as validate from '../src/purepass-validators'
-import * as Erric from 'easy-e'
+import { Erric } from 'easy-e'
 
 describe('purepass-validators', () => {
   describe('secret validation', () => {

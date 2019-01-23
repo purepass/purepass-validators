@@ -1,4 +1,4 @@
-const Erric = require('easy-e')
+import { Erric } from 'easy-e'
 const currentTypeOf = require('current-type-of')
 import mySpecialCharacters from './mySpecialCharacters'
 

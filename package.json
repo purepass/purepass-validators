@@ -125,6 +125,6 @@
   },
   "dependencies": {
     "current-type-of": "^2.0.0",
-    "easy-e": "^3.1.0"
+    "easy-e": "^4.0.0"
   }
 }
